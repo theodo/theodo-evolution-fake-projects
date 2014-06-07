@@ -1,0 +1,13 @@
+{
+    "name": "theodo-evolution/fake-projects",
+    "description": "\"Fake projects to test Theodo Evolution bundles\"",
+    "license": "MIT",
+    "homepage": "http://www.theodo.fr",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Theodo",
+            "homepage": "http://www.theodo.fr"
+        }
+    ]
+}

@@ -1,4 +1,5 @@
-/vendor/
-/cache
-/log
+# symfony14
+/symfony14/vendor/
+/symfony14/cache
+/symfony14/log
 
